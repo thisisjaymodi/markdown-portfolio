@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+# To do
+- Code
+- Eat
+-Sleep
+-Repeat
+  -:tada:

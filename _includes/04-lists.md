@@ -1,6 +1,6 @@
 # To do
 - Code
 - Eat
--Sleep
--Repeat
-  -:tada:
+- Sleep
+- Repeat
+- :tada:
